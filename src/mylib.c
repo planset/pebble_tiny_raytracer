@@ -1,20 +1,3 @@
-/*
- * =====================================================================================
- *
- *       Filename:  mylib.c
- *
- *    Description:  
- *
- *        Version:  1.0
- *        Created:  2014/10/14 06時29分41秒
- *       Revision:  none
- *       Compiler:  gcc
- *
- *         Author:  YOUR NAME (), 
- *   Organization:  
- *
- * =====================================================================================
- */
 #include "mylib.h"
 
 int _floor(float val){

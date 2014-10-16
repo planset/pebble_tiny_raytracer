@@ -1,20 +1,3 @@
-/*
- * =====================================================================================
- *
- *       Filename:  _raytracer.c
- *
- *    Description:  G
- *
- *        Version:  1.0
- *        Created:  2014/10/14 06時16分08秒
- *       Revision:  none
- *       Compiler:  gcc
- *
- *         Author:  YOUR NAME (), 
- *   Organization:  
- *
- * =====================================================================================
- */
 #include "raytracer.h"
 #include "mylib.h"
 
