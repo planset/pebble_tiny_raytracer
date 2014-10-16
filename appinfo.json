@@ -1,0 +1,17 @@
+{
+  "uuid": "fbb0254a-0892-4c45-81f0-8f3f36dab626",
+  "shortName": "raytracer",
+  "longName": "raytracer",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
